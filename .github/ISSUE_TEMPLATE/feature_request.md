@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for the main Vista Source engine.
 title: ''
-labels: ''
+labels: Feature
 assignees: ''
 
 ---
